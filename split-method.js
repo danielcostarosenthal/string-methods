@@ -1,0 +1,1 @@
+chainOfStrings.split(' ')
